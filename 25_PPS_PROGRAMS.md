@@ -78,13 +78,16 @@ int main()
 
 
 
-###Output:
+### Output:
  
 
-Enter two integers to add
-4
-5
-Sum of entered numbers = 9
+ Enter two integers to add
+
+ 4
+
+ 5
+
+ Sum of entered numbers = 9
 
 
 
