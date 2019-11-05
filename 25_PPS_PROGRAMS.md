@@ -61,23 +61,25 @@
 
 int main()
 {
-int firstNumber, secondNumber, sumOfTwoNumbers;
-    printf("Enter two integers: ");
-    scanf("%d %d", &firstNumber, &secondNumber);
-    sumOfTwoNumbers = firstNumber + secondNumber;
-    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
+int first, second, sum;
+
+printf("Enter two integers to add\n");
+scanf("%d%d", &first, &second);
+
+sum = first + second ;
+/*Adding contents of first and second and storing in sum*/
+
+printf("Sum of entered numbers = %d\n",sum);
+
 return 0;
 }
 
-### Output:
+Output:
  
 Enter two integers to add
-
 4
-
 5
-
-Sum of entered numbers =  9
+Sum of entered numbers = 9
 
 
 
