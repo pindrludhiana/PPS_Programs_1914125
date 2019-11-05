@@ -196,3 +196,10 @@ int main()
 Enter week number(1-7): 7
 Sunday
 
+
+
+## -----------------------------
+
+
+##
+## 04.Finding Odd Or Even
