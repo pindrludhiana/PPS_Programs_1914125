@@ -334,6 +334,9 @@ int main()
 
                 printf("\n %d is not a armstrong number\n",n);
 
+                return 0;
+
+
 }
 
 
