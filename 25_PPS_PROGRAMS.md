@@ -247,13 +247,13 @@ int main()
 
 {
 
-    int n, i;
+        int n, i;
 
-    printf("Enter an integer: ");
+        printf("Enter an integer: ");
 
-    scanf("%d",&n);
+        scanf("%d",&n);
 
-    for(i=1; i<=10; ++i)
+        for(i=1; i<=10; ++i)
 
     {
 
@@ -304,37 +304,37 @@ int main()
 
 {
 
-        int sum=0,digit;
+               int sum=0,digit;
 
-        int n, temp;
+               int n, temp;
 
-        printf("enter any positive integer number");
+               printf("enter any positive integer number");
 
-        scanf("%d",&n);
+               scanf("%d",&n);
 
-        temp=n;
-
-        while(temp>0)
-
+               temp=n;
+   
+               while(temp>0)
+  
         {
 
-                digit=temp%10;
+               digit=temp%10;
 
-                temp/=10;
+               temp/=10;
 
-                sum=sum+digit*digit*digit;
+               sum=sum+digit*digit*digit;
 
         }
 
-        if(n==sum)
+               if(n==sum)
 
-                printf("\n %d is a armstrong number\n",n);
+               printf("\n %d is a armstrong number\n",n);
 
-        else
+               else
 
-                printf("\n %d is not a armstrong number\n",n);
+               printf("\n %d is not a armstrong number\n",n);
 
-                return 0;
+               return 0;
 
 
 }
