@@ -205,7 +205,7 @@ Sunday
 
 #include <stdio.h>
 
- main()
+ int main()
 
 {
 
@@ -229,6 +229,8 @@ Sunday
 ### Output:
 
 Enter an integer
+
 45
+
 Odd
 
