@@ -60,19 +60,13 @@
 #include <stdio.h>
 
 int main()
-
 {
-
-   int first, second, sum;
-
-   printf("Enter two integers to add\n");
-   scanf("%d%d", &first, &second);
-   sum = first + second;
-   printf("Sum of entered numbers = %d\n",sum);
-
-
+int firstNumber, secondNumber, sumOfTwoNumbers;
+    printf("Enter two integers: ");
+    scanf("%d %d", &firstNumber, &secondNumber);
+    sumOfTwoNumbers = firstNumber + secondNumber;
+    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
 return 0;
-
 }
 
 ### Output:
