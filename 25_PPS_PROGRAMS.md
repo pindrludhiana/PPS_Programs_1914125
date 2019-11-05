@@ -160,6 +160,7 @@ int main()
  int main()
 
  {
+
      int week; 
 
      printf("Enter week number(1-7): "); 
