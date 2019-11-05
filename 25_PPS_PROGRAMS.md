@@ -350,6 +350,77 @@ enter any positive integer number
 
 
 
+## -----------------------------
+
+
+## 07.Calculator:
+
+# include <stdio.h>
+
+int main() 
+
+{
+
+    char operator;
+
+    double firstNumber,secondNumber;
+
+    printf("Enter an operator (+, -, *,): ");
+
+    scanf("%c", &operator);
+
+    printf("Enter two operands: ");
+
+    scanf("%lf %lf",&firstNumber, &secondNumber);
+
+    switch(operator)
+
+    {
+
+        case '+':
+
+            printf("%.1lf + %.1lf = %.1lf",firstNumber, secondNumber, firstNumber + secondNumber);
+            
+            break;
+
+            case '-':
+
+            printf("%.1lf - %.1lf = %.1lf",firstNumber, secondNumber, firstNumber - secondNumber);
+            
+            break;
+
+            case '*':
+
+            printf("%.1lf * %.1lf = %.1lf",firstNumber, secondNumber, firstNumber * secondNumber);
+            
+            break;
+
+            case '/':
+
+            printf("%.1lf / %.1lf = %.1lf",firstNumber, secondNumber, firstNumber / secondNumber);
+            
+            break;
+        
+           default:
+
+            printf("Error! operator is not correct");
+
+    }
+
+    
+            return 0;
+}
+
+### Output:
+
+Enter an operator (+, -, *,): *
+Enter two operands: 1.5
+4.5
+1.5 * 4.5 = 6.8
+
+
+
+## -----------------------------
 
 
 
