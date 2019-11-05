@@ -580,7 +580,7 @@ int check(int b[],int m,int o)
        
         void main()
 
-{     
+        {     
   
         int n,num,index;
 
@@ -650,4 +650,10 @@ now enter the number which you want to check
 
 element is found at the position 6
 
+
+
+## -----------------------------
+
+
+## 10.Factorial Of A Number:
 
