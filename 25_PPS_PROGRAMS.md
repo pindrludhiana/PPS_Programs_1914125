@@ -979,6 +979,7 @@ it is a leap year
 
 
 
+
 ## -----------------------------
 
 
@@ -1227,3 +1228,52 @@ Transpose of entered matrix :-
 2  5
 
 3  6
+
+
+
+## -----------------------------
+
+
+##20.Sum Of Digit Of Number:
+
+  
+#include<stdio.h>
+
+int main()
+
+{
+        int a,sum=0,c;
+
+        printf("enter the number\n");
+
+        scanf("%d",&a);
+
+        while(a!=0)
+
+        {
+
+        c=a%10;
+
+        sum+=c;
+
+        a=a/10;
+
+        }
+
+        printf("sum of digits is %d\n",sum);
+
+}
+
+
+### Output:
+
+enter the number
+
+265      
+
+sum of digits is 13
+
+
+
+
+## -----------------------------
