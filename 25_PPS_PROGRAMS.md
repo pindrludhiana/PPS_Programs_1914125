@@ -1343,23 +1343,23 @@ int main()
 
 {
 
-  int x, y, t;
+      int x, y, t;
  
-  printf("Enter two integers\n");
+      printf("Enter two integers\n");
 
-  scanf("%d%d", &x, &y);
+      scanf("%d%d", &x, &y);
  
-  printf("Before Swapping\nFirst integer = %d\nSecond integer = %d\n", x, y);
- 
-  t = x;
+      printf("Before Swapping\nFirst integer = %d\nSecond integer = %d\n", x, y);
+  
+      t = x;
 
-  x = y;
+      x = y;
 
-  y = t;
+      y = t;
  
-  printf("After Swapping\nFirst integer = %d\nSecond integer = %d\n", x, y);
- 
-  return 0;
+      printf("After Swapping\nFirst integer = %d\nSecond integer = %d\n", x, y);
+  
+      return 0;
 
 }
 
