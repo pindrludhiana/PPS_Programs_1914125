@@ -156,11 +156,18 @@ int main()
 ## 03.Days Of Week:
 
 #include <stdio.h>
+
  int main()
+
  {
      int week; 
-     printf("Enter week number(1-7): "); scanf("%d", &week);
+
+     printf("Enter week number(1-7): "); 
+
+     scanf("%d", &week);
+
      switch(week)
+
      { 
         case 1: printf("Monday"); 
         break; 
@@ -176,8 +183,10 @@ int main()
         break;
         case 7: printf("Sunday"); 
         break;
+
         default: printf("Invalid input! Please enter week number between 1-7.");
      } 
+
      return 0; 
  }
 
