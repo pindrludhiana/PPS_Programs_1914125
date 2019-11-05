@@ -141,6 +141,7 @@ int main()
 
 ### Output:
 Enter week number(1-7): 7
+
 Sunday
 
 
@@ -837,7 +838,7 @@ enter the three numbers which you want to compare
 
 
 
-## GCD Of Numbers:
+## 15.GCD Of Numbers:
 
 #include<stdio.h>
 
