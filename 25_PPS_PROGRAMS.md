@@ -87,7 +87,7 @@ return 0;
 
 5
 
-Sum of entered numbers = #### 9
+Sum of entered numbers =  9
 
 
 
@@ -146,4 +146,4 @@ int main()
 5. Enter number: 33
 6. Enter number: 45.6
 
- Average = #### 27.69
+ Average =  27.69
