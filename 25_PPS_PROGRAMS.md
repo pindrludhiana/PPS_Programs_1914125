@@ -892,6 +892,7 @@ enter the three numbers which you want to compare
 ## GCD Of Numbers:
 
 #include<stdio.h>
+
 int main()
 {
 
@@ -936,6 +937,7 @@ GCD=2
 ## 16.Leap Year Or Not:
 
 #include<stdio.h>
+
 int main()
 
 {
@@ -974,3 +976,78 @@ enter the year
 it is a leap year
 
 -------------------------------------------
+
+
+
+## -----------------------------
+
+
+## 17.Linear Search:
+
+#include <stdio.h>
+
+int main()
+
+{
+
+      int array[100], search, c, n;
+
+      printf("Enter the number of elements in array\n");
+
+      scanf("%d",&n);
+
+      printf("Enter %d integer(s)\n", n);
+
+      for (c = 0; c < n; c++)
+
+      scanf("%d", &array[c]);
+
+      printf("Enter the number to search\n");
+
+      scanf("%d", &search);
+
+
+      for (c = 0; c < n; c++)
+
+      {
+  
+      if (array[c] == search)
+
+      {
+
+
+      printf("%d is present at location %d.\n", search, c+1);
+
+      break;
+
+      }
+
+      }
+
+      if (c == n)
+
+      printf("%d is not present in array.\n", search);
+
+      return 0;
+}
+
+### Output:
+
+Enter the number of elements in array
+
+5
+
+Enter 5 numbers
+
+5
+
+6
+
+4
+
+2
+
+9
+Enter the number to search
+
+4 is present at location 3.
