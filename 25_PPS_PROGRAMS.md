@@ -1234,7 +1234,7 @@ Transpose of entered matrix :-
 ## -----------------------------
 
 
-##20.Sum Of Digit Of Number:
+## 20.Sum Of Digit Of Number:
 
   
 #include<stdio.h>
@@ -1242,6 +1242,7 @@ Transpose of entered matrix :-
 int main()
 
 {
+
         int a,sum=0,c;
 
         printf("enter the number\n");
@@ -1272,6 +1273,61 @@ enter the number
 265      
 
 sum of digits is 13
+
+
+
+
+## -----------------------------
+
+
+## 21.Palindrome Number:
+
+#include <stdio.h>
+
+int main()
+
+{
+
+       int n, reverse = 0, temp;
+
+       printf("Enter a number to check if it is a palindrome or not\n");
+
+       scanf("%d",&n);
+
+       temp = n;
+
+       while( temp != 0 )
+
+       {
+
+       reverse = reverse * 10;
+
+       reverse = reverse + temp%10;
+
+       temp = temp/10;
+
+       }
+
+
+       if ( n == reverse )
+
+       printf("%d is a palindrome number.\n", n);
+
+       else
+
+       printf("%d is not a palindrome number.\n", n);
+
+       return 0;
+
+}
+
+### Output:
+
+Enter a number to check if it is a palindrome or not
+
+12321
+
+12321 is a palindrome number
 
 
 
