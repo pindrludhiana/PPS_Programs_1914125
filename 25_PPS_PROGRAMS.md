@@ -703,3 +703,47 @@ Enter a number to calculate it's factorial
 6
 
 !6 = 720
+
+
+
+## -----------------------------
+
+
+## FizzBuzz:
+
+#include<stdio.h>
+
+int main()
+
+    { 
+
+    for(int i=1;i<=30;i++) 
+
+        { if(i%15==0) 
+
+        printf("fizzbuzz\n"); 
+
+        else if(i%5==0) 
+
+        printf("buzz\n"); 
+
+        else if(i%3==0) 
+
+        printf("fizz\n"); 
+
+        else {printf("%d\n",i);
+
+            } 
+
+        } 
+
+    return 0;
+}
+
+### Output:
+
+1      
+                
+2                
+               
+fizz                    
