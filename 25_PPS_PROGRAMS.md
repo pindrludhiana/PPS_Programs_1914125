@@ -1338,39 +1338,45 @@ Enter a number to check if it is a palindrome or not
 ## Call By Value:
 
 #include <stdio.h>
+ 
+int main()
 
-       void call_by_value(int x) {
+{
 
-       printf("Inside call_by_value x = %d before adding 10.\n", x);
+  int x, y, t;
+ 
+  printf("Enter two integers\n");
 
-       x += 10;
+  scanf("%d%d", &x, &y);
+ 
+  printf("Before Swapping\nFirst integer = %d\nSecond integer = %d\n", x, y);
+ 
+  t = x;
 
-       printf("Inside call_by_value x = %d after adding 10.\n", x);
+  x = y;
 
-       }
-
-       int main() {
-
-       int a=10;
-
-       printf("a = %d before function call_by_value.\n", a);
-
-       call_by_value(a);
-
-       printf("a = %d after function call_by_value.\n", a);
-
-       return 0;
+  y = t;
+ 
+  printf("After Swapping\nFirst integer = %d\nSecond integer = %d\n", x, y);
+ 
+  return 0;
 
 }
 
 ### Output:
 
-a = 10 before function call_by_value.
+Enter two integers                                                                                                                              
+12                                                                                                                                       
+13                                                                                                                                      
+Before Swapping                                                                                                                                 
+First integer = 12                                                                                                                         
+Second integer = 13                                                                                                                          
+After Swapping                                                                                                                                  
+First integer = 13                                                                                                                          
+Second integer = 12
 
-Inside call_by_value x = 10 before adding 10.
-
-Inside call_by_value x = 20 after adding 10.
-
-a = 10 after function call_by_value.
 
 
+
+
+## -----------------------------
