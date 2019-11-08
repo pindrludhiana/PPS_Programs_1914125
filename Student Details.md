@@ -1,6 +1,6 @@
-####  -*Gurunanak Dev Engenniering College*
+####  -*GURUNANAK DEV ENGENNERING COLLEGE*
 
-####  -*Department of Civil Engenniering*
+####  -*DEPARTMENT OF CIVIL ENGENNERING*
 
 Name- <strong>Bhupinder Kumar</strong>.
 
