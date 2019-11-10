@@ -1,5 +1,5 @@
 --------
-        * GNE College *
+       **GNE** **College**
 - - - - - - - - 
 > DEPARTMENT OF CIVIL ENGENNERING
 - - - - - - - - 
@@ -8,8 +8,8 @@
 
 * **Class** -  <strong>B-Tech </strong>.
 
-Section-<strong>Civil-C</strong>.
+* **Section** -<strong>Civil-C</strong>.
 
-Roll No - <strong>1914125</strong>.
+* **Roll** **No** - <strong>1914125</strong>.
 
-Project Of -  <strong>Programing For Problem Solving</strong>
+* **PROJECT** **OF**  -  <strong>Programing For Problem Solving</strong>
