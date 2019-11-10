@@ -1,6 +1,6 @@
 ## 25 PPS PROGRAMS:
 
-## ................
+------------------
 
 
 
@@ -55,18 +55,17 @@
 25.Product Of 2 Fractions
 
 
-## ................
+--------
 
 
  #### FOR PROGRAM CODES:
 
   https://github.com/Bhupinder0008/PPS_Programs_1914125/blob/master/PROGRAM%20CODES.md  
 
-## ...............................
+## -----------
 
  ####  FOR STUDENT DETAILS:
   
   https://github.com/Bhupinder0008/PPS_Programs_1914125/blob/master/Student%20Details.md
 
-
-## ................
+------------
