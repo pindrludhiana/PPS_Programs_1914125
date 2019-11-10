@@ -25,7 +25,7 @@ int main()
     return 0;
 }
 
-**_Output:_**
+* **_Output:_**
  
 
  Enter two integers to add
