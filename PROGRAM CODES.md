@@ -25,7 +25,7 @@ int main()
     return 0;
 }
 
-### Output:
+* Output:
  
 
  Enter two integers to add
