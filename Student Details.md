@@ -1,5 +1,5 @@
 --------
-       <strong.h>GNE<strong.h> <strong.h>College<strong.h> 
+        > GNE College
 > DEPARTMENT OF CIVIL ENGENNERING
 - - - - - - - - 
 
