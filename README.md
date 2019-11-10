@@ -1,60 +1,62 @@
 ## 25 PPS PROGRAMS:
 
-## ____________________
+## ................
 
 
-<strong>01.Adding 2 Integers </strong>.
 
-<strong>02.Average Of N Numbers</strong>.
+01.Adding 2 Integers 
 
-<strong>03.Days Of Week</strong>.
+02.Average Of N Numbers
 
-<strong>04.Finding Odd Or Even</strong>.
+03.Days Of Week
 
-<strong>05.Table Using For Loop</strong>.
+04.Finding Odd Or Even
 
-<strong>06.Armstrong Number</strong>.
+05.Table Using For Loop
 
-<strong>07.Calculator</strong>.
+06.Armstrong Number
 
-<strong>08.Bubble Sort</strong>.
+07.Calculator
 
-<strong>09.Binary Search</strong>.
+08.Bubble Sort
 
-<strong>10.Factorial Of A Number</strong>.
+09.Binary Search
 
-<strong>11.Fizz Buzz</strong>.
+10.Factorial Of A Number
 
-<strong>12.Sum of First 100 Numbers</strong>.
+11.Fizz Buzz
 
-<strong>13.Greater Of 2 Numbers</strong>.
+12.Sum of First 100 Numbers
 
-<strong>14.Greater Of 3 Numbers </strong>.
+13.Greater Of 2 Numbers
 
-<strong>15.GCD Of Numbers </strong>.
+14.Greater Of 3 Numbers
 
-<strong>16.Leap Year Or Not </strong>.
+15.GCD Of Numbers 
 
-<strong>17.Linear Search</strong>.
+16.Leap Year Or Not 
 
-<strong>18.Matrix Addition</strong>.
+17.Linear Search
 
-<strong>19.Transpose Of Matrix</strong>.
+18.Matrix Addition
 
-<strong>20.Sum Of Digit Of Number</strong>.
+19.Transpose Of Matrix
 
-<strong>21.Palindrome Number</strong>.
+20.Sum Of Digit Of Number
 
-<strong>22.Call By Value </strong>.
+21.Palindrome Number
 
-<strong>23.Call By Reference </strong>.
+22.Call By Value 
 
-<strong>24.Employees Details</strong>.
+23.Call By Reference 
 
-<strong>25.Product Of 2 Fractions</strong>..
+24.Employees Details
+
+25.Product Of 2 Fractions
 
 
-## ____________________
+## ................
+
 
  #### FOR PROGRAM CODES:
 
@@ -62,7 +64,7 @@
 
 ## ____________________
 
-#### CLICK ON STUDENT DETAIL FILE FOR DETAILS OF THE STUDENT
+ ####  FOR STUDENT DETAILS:
 
 
 ## ____________________
