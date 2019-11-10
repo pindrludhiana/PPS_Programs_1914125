@@ -1,14 +1,12 @@
 --------
-
- * GURUNANAK DEV ENGENNERING COLLEGE *
+ ### GNE College 
 - - - - - - - - 
-
 > DEPARTMENT OF CIVIL ENGENNERING
 - - - - - - - - 
 
-**Name** - * Bhupinder* *Kumar*
+* **Name** - * Bhupinder* *Kumar*
 
-Class-  <strong>B-Tech </strong>.
+* **Class** -  <strong>B-Tech </strong>.
 
 Section-<strong>Civil-C</strong>.
 
