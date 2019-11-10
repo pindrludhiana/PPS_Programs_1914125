@@ -1,14 +1,15 @@
 --------
-        > GNE College
+> GNE College
+--------
 > DEPARTMENT OF CIVIL ENGENNERING
 - - - - - - - - 
 
-* **Name** - * Bhupinder* *Kumar*
+* **Name** - *Bhupinder* *Kumar*
 
-* **Class** -  <strong>B-Tech </strong>.
+* **Class** -  *B-Tech*
 
-* **Section** -<strong>Civil-C</strong>.
+* **Section** - *Civil-C*
 
-* **Roll** **No** - <strong>1914125</strong>.
+* **Roll** **No** - *1914125*
 
-* **PROJECT** **OF**  -  <strong>Programing For Problem Solving</strong>
+* **PROJECT** **OF**  -  *Programing For Problem Solving*
