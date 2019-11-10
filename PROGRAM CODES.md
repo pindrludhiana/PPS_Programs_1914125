@@ -82,7 +82,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
  Enter the numbers of elements:6
 
@@ -139,7 +139,8 @@ int main()
 
  }
 
-### Output:
+* **_Output:_**
+
 Enter week number(1-7): 7
 
 Sunday
@@ -174,7 +175,7 @@ Sunday
      return 0;
 }
 
-### Output:
+* **_Output:_**
 
 Enter an integer
 
@@ -214,7 +215,7 @@ int main()
 }
 
 
-### Output:
+* **_Output:_**
 
 Enter an integer: 9
 
@@ -288,7 +289,7 @@ int main()
 }
 
 
-### Output:
+* **_Output:_**
 
 enter any positive integer number
 
@@ -359,7 +360,7 @@ int main()
             return 0;
 }
 
-### Output:
+* **_Output:_**
 
 Enter an operator (+, -, *,): *
 
@@ -433,7 +434,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
 Enter number of elements
 6
@@ -566,7 +567,7 @@ int check(int b[],int m,int o)
 }
 
 
-### Output:
+* **_Output:_**
 
 enter the array size
 
@@ -644,7 +645,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
 Enter a number to calculate it's factorial
 
@@ -688,7 +689,7 @@ int main()
     return 0;
 }
 
-### Output:
+* **_Output:_**
 
 1      
                 
@@ -730,7 +731,7 @@ int main()
 }
  
 
-### Output:
+* **_Output:_**
 
 Enter a positive integer: 100
 
@@ -773,7 +774,7 @@ void main()
 
 }
 
-### Output:
+* **_Output:_**
 
 enter first number
 
@@ -819,7 +820,7 @@ void main()
 }
 
 
-### Output:
+* **_Output:_**
 
 enter the three numbers which you want to compare 
 
@@ -869,7 +870,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
 Enter value for m,n
 
@@ -906,7 +907,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
 --------------------------------------------------------
 
@@ -916,7 +917,7 @@ enter the year
 
 it is not a leap year
 
-## ***********
+## ____________
 
 enter the year
 
@@ -924,7 +925,7 @@ enter the year
 
 it is a leap year
 
-## ***********
+## ____________
 
 
 
@@ -981,7 +982,7 @@ int main()
       return 0;
 }
 
-### Output:
+* **_Output:_**
 
 Enter the number of elements in array
 
@@ -1061,7 +1062,7 @@ int main()
           return 0;
 }
 
-### Output:
+* **_Output:_**
 
 Enter the number of rows and columns of matrix
 
@@ -1156,7 +1157,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
 Enter the number of rows and columns of matrix
 
@@ -1215,7 +1216,7 @@ int main()
 }
 
 
-### Output:
+* **_Output:_**
 
 enter the number
 
@@ -1270,7 +1271,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
 Enter a number to check if it is a palindrome or not
 
@@ -1312,7 +1313,7 @@ int main()
 
 }
 
-### Output:
+* **_Output:_**
 
 Enter two integers                                                                                                                              
 12                                                                                                                                       
@@ -1357,7 +1358,7 @@ Second integer = 12
 
 }
 
-Output:
+* **_Output:_**
 
 b = 10 before function call_by_reference.
 
@@ -1416,7 +1417,7 @@ b = 20 after function call_by_reference
 
 }
 
-### Output:
+* **_Output:_**
 
 Enter details :
 
@@ -1476,7 +1477,7 @@ Salary: 15,000000
 
 }
 
-### Output:
+* **_Output:_**
 
 enter numerator and denominator of first fraction
 
