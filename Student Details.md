@@ -1,5 +1,5 @@
 --------
-        **GNE College**
+        * GNE College *
 - - - - - - - - 
 > DEPARTMENT OF CIVIL ENGENNERING
 - - - - - - - - 
