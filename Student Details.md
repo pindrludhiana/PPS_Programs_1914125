@@ -1,8 +1,8 @@
- **GURUNANAK DEV ENGENNERING COLLEGE**
+> GURUNANAK DEV ENGENNERING COLLEGE
 
 > DEPARTMENT OF CIVIL ENGENNERING
 
-Name- <strong>Bhupinder Kumar</strong>.
+**Name** - * Bhupinder* *Kumar*
 
 Class-  <strong>B-Tech </strong>.
 
