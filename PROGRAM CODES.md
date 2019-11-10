@@ -27,7 +27,6 @@ int main()
 
 * **_Output:_**
  
-{
 
  Enter two integers to add
 
@@ -36,8 +35,6 @@ int main()
  5
 
  Sum of entered numbers = 9
-
-}
 
 
 ---------
