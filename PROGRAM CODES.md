@@ -30,6 +30,7 @@ int main()
 
  Enter two integers to add
  4
+
  5
 
  Sum of entered numbers = 9
