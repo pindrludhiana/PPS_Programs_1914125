@@ -4,7 +4,7 @@
 > DEPARTMENT OF CIVIL ENGENNERING
 - - - - - - - - 
 
-* **Name** - <strong.h>*Bhupinder* *Kumar*<strong.h>
+* **Name** - *Bhupinder* *Kumar*
 
 * **Class** -  *B-Tech*
 
