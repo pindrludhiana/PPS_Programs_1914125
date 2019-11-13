@@ -66,6 +66,6 @@
 
  ####  FOR STUDENT DETAILS:
   
-  https://github.com/Bhupinder0008/PPS_Programs_1914125/blob/master/Student%20Details.md
+  [Student Details](https://github.com/Bhupinder0008/PPS_Programs_1914125/blob/master/Student%20Details.md)
 
 ------------
